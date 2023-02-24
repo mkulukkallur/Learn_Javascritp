@@ -1,2 +1,2 @@
-# Learn_Javascritp
+# Learn_Javascript
 Learning some web dev
